@@ -1,0 +1,24 @@
+{
+  "name": "transform_data",
+  "version": "1.0.0",
+  "description": "Normalizador de datos de QA Scrapper a Excel para pruebas manuales.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-Magic32/data-normalize-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andres-Magic32/data-normalize-scrapper/issues"
+  },
+  "homepage": "https://github.com/Andres-Magic32/data-normalize-scrapper#readme",
+  "dependencies": {
+    "excel4node": "^1.8.0"
+  }
+}
