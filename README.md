@@ -13,3 +13,6 @@ Example
 In this case TRX_uno.json is the file name.
 
 const file = await readFile('./TRX_uno.json', 'utf-8');
+
+## Execute
+npm start
