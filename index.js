@@ -1,6 +1,6 @@
 import { readFile } from 'fs/promises'
 import xl from 'excel4node' // Se requiere para crear el excel
-
+//Comentarios de otro usuario
 const read = async() => {
     // Obtiendo datos json
     const file = await readFile('./TRX_uno.json', 'utf-8');
