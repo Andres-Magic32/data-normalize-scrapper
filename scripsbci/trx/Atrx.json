@@ -1,0 +1,664 @@
+{
+    "data": {
+      "state": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "account_id": "hEgqg9ovzmOZXF39IZUraawY0gAT7qPa4O1XAImwOkY=",
+      "user_id": null,
+      "credential_id": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "transactions": [
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010834391609098449",
+          "amount": 1,
+          "created_at": "2022-12-12T18:47:00+00:00",
+          "made_on": "2022-12-12T18:47:00+00:00",
+          "description": "Transferencia recibida de FRANCISCO SEBASTIAN ESPARZA RO",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010834769416750065",
+          "amount": -158,
+          "created_at": "2022-12-08T09:50:00+00:00",
+          "made_on": "2022-12-08T09:50:00+00:00",
+          "description": "Pago deuda tarjeta crédito US$",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010834769474461274",
+          "amount": -85128,
+          "created_at": "2022-12-08T09:49:00+00:00",
+          "made_on": "2022-12-08T09:49:00+00:00",
+          "description": "Pago deuda Tarjeta de Crédito",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010834769542039924",
+          "amount": 1090000,
+          "created_at": "2022-12-08T09:48:00+00:00",
+          "made_on": "2022-12-08T09:48:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010837527377658838",
+          "amount": -140000,
+          "created_at": "2022-11-06T11:44:00+00:00",
+          "made_on": "2022-11-06T11:44:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010837882700215195",
+          "amount": -137176,
+          "created_at": "2022-11-02T09:02:00+00:00",
+          "made_on": "2022-11-02T09:02:00+00:00",
+          "description": "Pago deuda tarjeta crédito US$",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010837882767403332",
+          "amount": -35131,
+          "created_at": "2022-11-02T09:01:00+00:00",
+          "made_on": "2022-11-02T09:01:00+00:00",
+          "description": "Pago deuda Tarjeta de Crédito",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010837882817766014",
+          "amount": 300000,
+          "created_at": "2022-11-02T09:00:00+00:00",
+          "made_on": "2022-11-02T09:00:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010837927302664759",
+          "amount": -1010000,
+          "created_at": "2022-11-01T20:39:00+00:00",
+          "made_on": "2022-11-01T20:39:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010837983021063453",
+          "amount": 1000001,
+          "created_at": "2022-11-01T05:10:00+00:00",
+          "made_on": "2022-11-01T05:10:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010840204325491062",
+          "amount": -163225,
+          "created_at": "2022-10-06T12:08:00+00:00",
+          "made_on": "2022-10-06T12:08:00+00:00",
+          "description": "Pago deuda Tarjeta de Crédito",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010840204397345033",
+          "amount": -6897,
+          "created_at": "2022-10-06T12:07:00+00:00",
+          "made_on": "2022-10-06T12:07:00+00:00",
+          "description": "Pago deuda Tarjeta de Crédito",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010840204426117555",
+          "amount": 200000,
+          "created_at": "2022-10-06T12:07:00+00:00",
+          "made_on": "2022-10-06T12:07:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010840641528143156",
+          "amount": -1005000,
+          "created_at": "2022-10-01T10:42:00+00:00",
+          "made_on": "2022-10-01T10:42:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010840661423038395",
+          "amount": 1000001,
+          "created_at": "2022-10-01T05:10:00+00:00",
+          "made_on": "2022-10-01T05:10:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010840892023407042",
+          "amount": -20000,
+          "created_at": "2022-09-28T13:07:00+00:00",
+          "made_on": "2022-09-28T13:07:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010841899611248295",
+          "amount": -1000000,
+          "created_at": "2022-09-16T21:14:00+00:00",
+          "made_on": "2022-09-16T21:14:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843227629843908",
+          "amount": -1400,
+          "created_at": "2022-09-01T12:20:00+00:00",
+          "made_on": "2022-09-01T12:20:00+00:00",
+          "description": "Compra con Tarjeta de Débito en AGUSTINAS        SANTIAGO    CHL",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843238661114322",
+          "amount": -14990,
+          "created_at": "2022-09-01T09:16:00+00:00",
+          "made_on": "2022-09-01T09:16:00+00:00",
+          "description": "Compra con Tarjeta de Débito en MEGASALUD",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843253793933033",
+          "amount": 1000001,
+          "created_at": "2022-09-01T05:04:00+00:00",
+          "made_on": "2022-09-01T05:04:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843396975583840",
+          "amount": -23045,
+          "created_at": "2022-08-30T13:17:00+00:00",
+          "made_on": "2022-08-30T13:17:00+00:00",
+          "description": "Compra con Tarjeta de Débito en DOMINO",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843490290556138",
+          "amount": -3990,
+          "created_at": "2022-08-29T11:22:00+00:00",
+          "made_on": "2022-08-29T11:22:00+00:00",
+          "description": "Compra con Tarjeta de Débito en O 2 SPORT",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843537881082785",
+          "amount": -107000,
+          "created_at": "2022-08-28T22:09:00+00:00",
+          "made_on": "2022-08-28T22:09:00+00:00",
+          "description": "Compra con Tarjeta de Débito en AUTON            SANTIAGO    CHL",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843538163037650",
+          "amount": 100000,
+          "created_at": "2022-08-28T22:04:00+00:00",
+          "made_on": "2022-08-28T22:04:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843558365401477",
+          "amount": -14990,
+          "created_at": "2022-08-28T16:28:00+00:00",
+          "made_on": "2022-08-28T16:28:00+00:00",
+          "description": "Compra con Tarjeta de Débito en SODIMAC",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843559091937499",
+          "amount": -4470,
+          "created_at": "2022-08-28T16:16:00+00:00",
+          "made_on": "2022-08-28T16:16:00+00:00",
+          "description": "Compra con Tarjeta de Débito en MINISO",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843559776232098",
+          "amount": -21561,
+          "created_at": "2022-08-28T16:04:00+00:00",
+          "made_on": "2022-08-28T16:04:00+00:00",
+          "description": "Compra con Tarjeta de Débito en BRANDO SPA",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843642910749447",
+          "amount": -8400,
+          "created_at": "2022-08-27T16:59:00+00:00",
+          "made_on": "2022-08-27T16:59:00+00:00",
+          "description": "Compra con Tarjeta de Débito en PANMOSTACHO SPA  TIAGO       CHL",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843660151775287",
+          "amount": -10000,
+          "created_at": "2022-08-27T12:11:00+00:00",
+          "made_on": "2022-08-27T12:11:00+00:00",
+          "description": "Compra con Tarjeta de Débito en DECATHLON",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843757948628510",
+          "amount": 100000,
+          "created_at": "2022-08-26T09:01:00+00:00",
+          "made_on": "2022-08-26T09:01:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843758556089772",
+          "amount": -88440,
+          "created_at": "2022-08-26T08:51:00+00:00",
+          "made_on": "2022-08-26T08:51:00+00:00",
+          "description": "Pago deuda Tarjeta de Crédito",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843843630960980",
+          "amount": -1600,
+          "created_at": "2022-08-25T09:13:00+00:00",
+          "made_on": "2022-08-25T09:13:00+00:00",
+          "description": "Compra con Tarjeta de Débito en AGUSTINAS        SANTIAGO    CHL",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843886518143400",
+          "amount": -2400,
+          "created_at": "2022-08-24T21:18:00+00:00",
+          "made_on": "2022-08-24T21:18:00+00:00",
+          "description": "Compra con Tarjeta de Débito en LUKA MINIMARKET",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843889523035747",
+          "amount": -32000,
+          "created_at": "2022-08-24T20:28:00+00:00",
+          "made_on": "2022-08-24T20:28:00+00:00",
+          "description": "Compra con Tarjeta de Débito en DECATHLON",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843895221798525",
+          "amount": -5000,
+          "created_at": "2022-08-24T18:53:00+00:00",
+          "made_on": "2022-08-24T18:53:00+00:00",
+          "description": "Compra con Tarjeta de Débito en COPEC SANTA MARIAPROVIDENCIA CHL",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843898550907228",
+          "amount": -2050,
+          "created_at": "2022-08-24T17:58:00+00:00",
+          "made_on": "2022-08-24T17:58:00+00:00",
+          "description": "Compra con Tarjeta de Débito en FULL MARKET",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "COMPRA_TARJETA_DEBITO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843901669754898",
+          "amount": 100000,
+          "created_at": "2022-08-24T17:06:00+00:00",
+          "made_on": "2022-08-24T17:06:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010843901783380160",
+          "amount": -29990,
+          "created_at": "2022-08-24T17:04:00+00:00",
+          "made_on": "2022-08-24T17:04:00+00:00",
+          "description": "Pago deuda Tarjeta de Crédito",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010845110321954687",
+          "amount": -72000,
+          "created_at": "2022-08-10T17:22:00+00:00",
+          "made_on": "2022-08-10T17:22:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010845418304471097",
+          "amount": -1000000,
+          "created_at": "2022-08-07T03:49:00+00:00",
+          "made_on": "2022-08-07T03:49:00+00:00",
+          "description": "Transferencia enviada a Pablo",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010845566490450162",
+          "amount": -200000,
+          "created_at": "2022-08-05T10:39:00+00:00",
+          "made_on": "2022-08-05T10:39:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010845929980787715",
+          "amount": 1000001,
+          "created_at": "2022-08-01T05:41:00+00:00",
+          "made_on": "2022-08-01T05:41:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010848592821654019",
+          "amount": -300000,
+          "created_at": "2022-07-01T10:00:00+00:00",
+          "made_on": "2022-07-01T10:00:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010848593837103667",
+          "amount": -1000000,
+          "created_at": "2022-07-01T09:43:00+00:00",
+          "made_on": "2022-07-01T09:43:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010848608300285796",
+          "amount": 1000001,
+          "created_at": "2022-07-01T05:42:00+00:00",
+          "made_on": "2022-07-01T05:42:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010850671189877868",
+          "amount": -5000000,
+          "created_at": "2022-06-07T08:41:00+00:00",
+          "made_on": "2022-06-07T08:41:00+00:00",
+          "description": "Transferencia enviada a INMOBILIARIA INVERSIONES",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010850671226095585",
+          "amount": 4800000,
+          "created_at": "2022-06-07T08:40:00+00:00",
+          "made_on": "2022-06-07T08:40:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010850734444324089",
+          "amount": -1000000,
+          "created_at": "2022-06-06T15:06:00+00:00",
+          "made_on": "2022-06-06T15:06:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010851202478033552",
+          "amount": 1000001,
+          "created_at": "2022-06-01T05:06:00+00:00",
+          "made_on": "2022-06-01T05:06:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010851779362789633",
+          "amount": -2678684,
+          "created_at": "2022-05-25T12:51:00+00:00",
+          "made_on": "2022-05-25T12:51:00+00:00",
+          "description": "Pago de créditos",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        }
+      ]
+    },
+    "meta": {
+      "timestamp": "2022-12-13T01:15:09.280102",
+      "version": "1.1.0"
+    }
+  }

@@ -1,0 +1,92 @@
+{
+    "data": {
+      "state": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "account_id": "Zg8JqANUSB7ru0F9pjHYdgz+KRCzXTUnVeHzF1hK4mM=",
+      "user_id": null,
+      "credential_id": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "transactions": [
+        {
+          "id": "6TGlQ5FlGFW6cV33OeAK14iyQ/AWYn3Wzy5L5DfQOSo=",
+          "amount": -85128,
+          "created_at": "2022-12-09T00:00:00+00:00",
+          "made_on": "2022-12-09T00:00:00+00:00",
+          "description": "Monto cancelado pago normal",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 0,
+            "TotalFee": 0
+          }
+        },
+        {
+          "id": "pms2828v0IXRYpPBkXvgOrQJ1bEMBtJnSQIj6cHuLx0=",
+          "amount": -25874,
+          "created_at": "2022-11-29T00:00:00+00:00",
+          "made_on": "2022-11-29T00:00:00+00:00",
+          "description": "Devol. vamos noviem",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 0,
+            "TotalFee": 0
+          }
+        },
+        {
+          "id": "pOMQPfTpztEnXnUfIAaemMlZ12seCF3fxnKSrJxrrRg=",
+          "amount": 3478,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "Cobro adm mensual",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 1,
+            "TotalFee": 1
+          }
+        },
+        {
+          "id": "c4fqd0FA8S4kHYx+GbCF+NpVZIbLiNwcpl3rs4q/4AU=",
+          "amount": 87970,
+          "created_at": "2022-11-11T00:00:00+00:00",
+          "made_on": "2022-11-11T00:00:00+00:00",
+          "description": "Sarita colonia spa santiago",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 1,
+            "TotalFee": 1
+          }
+        },
+        {
+          "id": "zjXFcfHZJv4RmoUi/PcRqkDg2+kJ7qF5SpbEa2M/Kzc=",
+          "amount": -35131,
+          "created_at": "2022-11-02T00:00:00+00:00",
+          "made_on": "2022-11-02T00:00:00+00:00",
+          "description": "Monto cancelado",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 1,
+            "TotalFee": 1
+          }
+        },
+        {
+          "id": "ilbHTHBXVqHtRBjZX3ENAYpGA5y4EQv2K4Ab/EnyETw=",
+          "amount": 19554,
+          "created_at": "2022-10-29T00:00:00+00:00",
+          "made_on": "2022-10-29T00:00:00+00:00",
+          "description": "Uber las condes",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 1,
+            "TotalFee": 1
+          }
+        }
+      ]
+    },
+    "meta": {
+      "timestamp": "2022-12-13T01:15:35.839157",
+      "version": "1.1.0"
+    }
+  }

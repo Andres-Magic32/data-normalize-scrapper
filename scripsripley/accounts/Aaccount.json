@@ -1,0 +1,25 @@
+{
+    "data": {
+      "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+      "name": "Cuenta Vista",
+      "balance": 376,
+      "currency": "CLP",
+      "number": "4042275393",
+      "nature": "account",
+      "created_at": null,
+      "updated_at": null,
+      "is_credit_card": false,
+      "credit_detail": null,
+      "available_balance": 376,
+      "disposed_balance": null,
+      "posted_balance": null,
+      "extra_data": {},
+      "credential_id": "e2bf3253-bc97-0854-2522-d04e1b9025a2",
+      "user_id": null,
+      "state": "e2bf3253-bc97-0854-2522-d04e1b9025a2"
+    },
+    "meta": {
+      "timestamp": "2022-12-13T00:39:09.529029",
+      "version": "v2.1-preview"
+    }
+  }

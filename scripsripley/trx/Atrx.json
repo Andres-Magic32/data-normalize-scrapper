@@ -1,0 +1,329 @@
+{
+    "data": {
+      "state": "e2bf3253-bc97-0854-2522-d04e1b9025a2",
+      "account_id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+      "user_id": null,
+      "credential_id": "e2bf3253-bc97-0854-2522-d04e1b9025a2",
+      "transactions": [
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 37135,
+          "created_at": "2022-12-10T00:00:00+00:00",
+          "made_on": "2022-12-10T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "17:52",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "A",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 54028,
+          "created_at": "2022-12-07T00:00:00+00:00",
+          "made_on": "2022-12-07T00:00:00+00:00",
+          "description": "Servipag ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "PAGO POR TERMIN",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Abono",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 29356,
+          "created_at": "2022-12-05T00:00:00+00:00",
+          "made_on": "2022-12-05T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 27497,
+          "created_at": "2022-12-05T00:00:00+00:00",
+          "made_on": "2022-12-05T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 25903,
+          "created_at": "2022-11-30T00:00:00+00:00",
+          "made_on": "2022-11-30T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 9850,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "SUMUP C*LAURA COMICH ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 5700,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "SAN RAFAEL EST CENTR ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 14690,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "SAN RAFAEL ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10553,
+          "created_at": "2022-11-19T00:00:00+00:00",
+          "made_on": "2022-11-19T00:00:00+00:00",
+          "description": "NETFLIX.COM ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 3638,
+          "created_at": "2022-11-18T00:00:00+00:00",
+          "made_on": "2022-11-18T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SEGUROS ASOC. A",
+            "sucursal": "SERVICIOS CENTR",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 2085,
+          "created_at": "2022-11-18T00:00:00+00:00",
+          "made_on": "2022-11-18T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SEGUROS ASOC. A",
+            "sucursal": "SERVICIOS CENTR",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 69399,
+          "created_at": "2022-11-17T00:00:00+00:00",
+          "made_on": "2022-11-17T00:00:00+00:00",
+          "description": "CHILIS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 15180,
+          "created_at": "2022-11-17T00:00:00+00:00",
+          "made_on": "2022-11-17T00:00:00+00:00",
+          "description": "AP VIDA APOYO INTEGR ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "RECAUDACIONES",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 13330,
+          "created_at": "2022-11-14T00:00:00+00:00",
+          "made_on": "2022-11-14T00:00:00+00:00",
+          "description": "SUMUP C*LAURA COMICH ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10499,
+          "created_at": "2022-11-13T00:00:00+00:00",
+          "made_on": "2022-11-13T00:00:00+00:00",
+          "description": "DISNEY PLUS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        }
+      ]
+    },
+    "meta": {
+      "timestamp": "2022-12-13T00:39:52.905849",
+      "version": "1.1.0"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "detail": [
+        {
+            "loc": [
+                "body",
+                40
+            ],
+            "msg": "Expecting ',' delimiter: line 6 column 5 (char 40)",
+            "type": "value_error.jsondecode",
+            "ctx": {
+                "msg": "Expecting ',' delimiter",
+                "doc": "{\r\n  \"data\": [\r\n    {\r\n    \r\n    }\r\n    {\r\n      \"id_transaction\": 71892794,\r\n      \"description\": \"CARGO EN CUENTA POR INTERNET\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892799,\r\n      \"description\": \"TRASP CTA PROPIA INTERNET\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892802,\r\n      \"description\": \"ABONO SPEI\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892808,\r\n      \"description\": \"CARGO EN CUENTA POR INTERNET\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892812,\r\n      \"description\": \"ABONO SPEI\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892817,\r\n      \"description\": \"CARGO EN CUENTA POR INTERNET\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892821,\r\n      \"description\": \"ABONO SPEI\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892825,\r\n      \"description\": \"CARGO EN CUENTA POR INTERNET\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892828,\r\n      \"description\": \"ABONO SPEI\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892832,\r\n      \"description\": \"CARGO EN CUENTA POR INTERNET\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892835,\r\n      \"description\": \"ABONO SPEI\",\r\n      \"type\": 0\r\n    },\r\n    {\r\n      \"id_transaction\": 71892844,\r\n      \"description\": \"CARGO EN CUENTA POR INTERNET\",\r\n      \"type\": 0\r\n    }\r\n  ]\r\n}",
+                "pos": 40,
+                "lineno": 6,
+                "colno": 5
+            }
+        }
+    ]
+}

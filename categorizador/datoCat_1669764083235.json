@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id_transaction": 71892791,
+      "description": "ABONO SPEI",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892794,
+      "description": "CARGO EN CUENTA POR INTERNET",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892799,
+      "description": "TRASP CTA PROPIA INTERNET",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892802,
+      "description": "ABONO SPEI",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892808,
+      "description": "CARGO EN CUENTA POR INTERNET",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892812,
+      "description": "ABONO SPEI",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892817,
+      "description": "CARGO EN CUENTA POR INTERNET",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892821,
+      "description": "ABONO SPEI",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892825,
+      "description": "CARGO EN CUENTA POR INTERNET",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892828,
+      "description": "ABONO SPEI",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892832,
+      "description": "CARGO EN CUENTA POR INTERNET",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892835,
+      "description": "ABONO SPEI",
+      "type": 0
+    },
+    {
+      "id_transaction": 71892844,
+      "description": "CARGO EN CUENTA POR INTERNET",
+      "type": 0
+    }
+  ]
+}

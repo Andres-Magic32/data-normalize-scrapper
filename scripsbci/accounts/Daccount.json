@@ -1,0 +1,30 @@
+{
+    "data": {
+      "id": "hO8iYkVs0ljsy2NWN5+2JyeLw5pFFe3mzCb6EwQyxn8=",
+      "name": "XXXX-XXXX-XXXX-1424",
+      "balance": 1016421,
+      "currency": "CLP",
+      "number": "XXXX-XXXX-XXXX-1424",
+      "nature": "debit_card",
+      "created_at": null,
+      "updated_at": null,
+      "is_credit_card": false,
+      "credit_detail": null,
+      "available_balance": 1016421,
+      "disposed_balance": null,
+      "posted_balance": null,
+      "extra_data": {
+        "FinerioProductType": {
+          "Name": "debit_card",
+          "Description": "Débito"
+        }
+      },
+      "credential_id": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "user_id": null,
+      "state": "62468011-30d6-2b9a-01c4-510ecbde289d"
+    },
+    "meta": {
+      "timestamp": "2022-12-13T01:15:43.266123",
+      "version": "v2.1-preview"
+    }
+  }

@@ -1,0 +1,27 @@
+{
+    "data": {
+      "state": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "account_id": "1nKBIqWTiXcRCS9HuQqJRgdWqkubpM/tdDAZc4kSJsY=",
+      "user_id": null,
+      "credential_id": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "transactions": [
+        {
+          "id": "g0cyxpZ12Jhctg0dhXc6U79qcYdKTM+xDwT1BOoyIvg=",
+          "amount": -65959,
+          "created_at": "2022-11-02T00:00:00+00:00",
+          "made_on": "2022-11-02T00:00:00+00:00",
+          "description": "Mp *lippi santiago",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "CurrentFee": 1,
+            "TotalFee": 1
+          }
+        }
+      ]
+    },
+    "meta": {
+      "timestamp": "2022-12-13T01:15:29.420456",
+      "version": "1.1.0"
+    }
+  }

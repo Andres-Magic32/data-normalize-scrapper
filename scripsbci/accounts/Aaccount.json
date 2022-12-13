@@ -1,0 +1,33 @@
+{
+    "data": {
+      "id": "hEgqg9ovzmOZXF39IZUraawY0gAT7qPa4O1XAImwOkY=",
+      "name": "Cuenta Corriente",
+      "balance": 1016421,
+      "currency": "CLP",
+      "number": "13015214",
+      "nature": "account",
+      "created_at": null,
+      "updated_at": null,
+      "is_credit_card": false,
+      "credit_detail": null,
+      "available_balance": 1016421,
+      "disposed_balance": null,
+      "posted_balance": null,
+      "extra_data": {
+        "ExtraData": {
+          "AvailableOverdraft": 7840000
+        },
+        "FinerioProductType": {
+          "Name": "account",
+          "Description": "Cuenta"
+        }
+      },
+      "credential_id": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "user_id": null,
+      "state": "62468011-30d6-2b9a-01c4-510ecbde289d"
+    },
+    "meta": {
+      "timestamp": "2022-12-13T01:14:42.636831",
+      "version": "v2.1-preview"
+    }
+  }

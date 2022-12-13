@@ -1,0 +1,320 @@
+{
+    "status": "Ok",
+    "data_proces_time_ms": 0.00405573844909668,
+    "inference_time_ms": 0.09262561798095703,
+    "no_processable_transactions": [],
+    "predictions": [
+        {
+            "id_transaction": "71892791",
+            "clean_description": "abono spei",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.9999116659164429
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.6062135696411133
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Servicios Públicos",
+                    "subcategory_id": "000-0007-0001",
+                    "probability": 0.03338778391480446
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892794",
+            "clean_description": "cargo cuenta internet",
+            "categories": [
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9941122531890869
+                },
+                {
+                    "category": "Entretenimiento",
+                    "subcategory": "Apps",
+                    "subcategory_id": "000-0005-0005",
+                    "probability": 0.22696532309055328
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Teléfono Celular",
+                    "subcategory_id": "000-0007-0008",
+                    "probability": 0.02456878498196602
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892799",
+            "clean_description": "trasp cta propia internet",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias Cuentas Propias",
+                    "subcategory_id": "000-0012-0009",
+                    "probability": 0.9988183975219727
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencia Terceros",
+                    "subcategory_id": "000-0012-0008",
+                    "probability": 0.9956054091453552
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9520111083984375
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892802",
+            "clean_description": "abono spei",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.9999116659164429
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.6062135696411133
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Servicios Públicos",
+                    "subcategory_id": "000-0007-0001",
+                    "probability": 0.03338778391480446
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892808",
+            "clean_description": "cargo cuenta internet",
+            "categories": [
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9941122531890869
+                },
+                {
+                    "category": "Entretenimiento",
+                    "subcategory": "Apps",
+                    "subcategory_id": "000-0005-0005",
+                    "probability": 0.22696532309055328
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Teléfono Celular",
+                    "subcategory_id": "000-0007-0008",
+                    "probability": 0.02456878498196602
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892812",
+            "clean_description": "abono spei",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.9999116659164429
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.6062135696411133
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Servicios Públicos",
+                    "subcategory_id": "000-0007-0001",
+                    "probability": 0.03338778391480446
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892817",
+            "clean_description": "cargo cuenta internet",
+            "categories": [
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9941122531890869
+                },
+                {
+                    "category": "Entretenimiento",
+                    "subcategory": "Apps",
+                    "subcategory_id": "000-0005-0005",
+                    "probability": 0.22696532309055328
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Teléfono Celular",
+                    "subcategory_id": "000-0007-0008",
+                    "probability": 0.02456878498196602
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892821",
+            "clean_description": "abono spei",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.9999116659164429
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.6062135696411133
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Servicios Públicos",
+                    "subcategory_id": "000-0007-0001",
+                    "probability": 0.03338778391480446
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892825",
+            "clean_description": "cargo cuenta internet",
+            "categories": [
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9941122531890869
+                },
+                {
+                    "category": "Entretenimiento",
+                    "subcategory": "Apps",
+                    "subcategory_id": "000-0005-0005",
+                    "probability": 0.22696532309055328
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Teléfono Celular",
+                    "subcategory_id": "000-0007-0008",
+                    "probability": 0.02456878498196602
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892828",
+            "clean_description": "abono spei",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.9999116659164429
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.6062135696411133
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Servicios Públicos",
+                    "subcategory_id": "000-0007-0001",
+                    "probability": 0.03338778391480446
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892832",
+            "clean_description": "cargo cuenta internet",
+            "categories": [
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9941122531890869
+                },
+                {
+                    "category": "Entretenimiento",
+                    "subcategory": "Apps",
+                    "subcategory_id": "000-0005-0005",
+                    "probability": 0.22696532309055328
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Teléfono Celular",
+                    "subcategory_id": "000-0007-0008",
+                    "probability": 0.02456878498196602
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892835",
+            "clean_description": "abono spei",
+            "categories": [
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.9999116659164429
+                },
+                {
+                    "category": "Transacciones Bancarias",
+                    "subcategory": "Transferencias",
+                    "subcategory_id": "000-0012-0002",
+                    "probability": 0.6062135696411133
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Servicios Públicos",
+                    "subcategory_id": "000-0007-0001",
+                    "probability": 0.03338778391480446
+                }
+            ]
+        },
+        {
+            "id_transaction": "71892844",
+            "clean_description": "cargo cuenta internet",
+            "categories": [
+                {
+                    "category": "Hogar",
+                    "subcategory": "Tv internet",
+                    "subcategory_id": "000-0007-0009",
+                    "probability": 0.9941122531890869
+                },
+                {
+                    "category": "Entretenimiento",
+                    "subcategory": "Apps",
+                    "subcategory_id": "000-0005-0005",
+                    "probability": 0.2269652932882309
+                },
+                {
+                    "category": "Hogar",
+                    "subcategory": "Teléfono Celular",
+                    "subcategory_id": "000-0007-0008",
+                    "probability": 0.02456878498196602
+                }
+            ]
+        }
+    ]
+}
