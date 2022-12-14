@@ -89,3 +89,7 @@ other();
 const test = () => {
   // Se agrega desde test3-qa
 }
+
+const test2 = () => {
+  // since branch rebase feature/test3-qa-rebase
+}
