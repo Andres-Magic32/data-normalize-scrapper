@@ -81,4 +81,7 @@ const other = () => {
   console.log('saludos')
 }
 read() // Metodo void solo para ejecutar
- 
+ /**
+  * Se agrega desde la otra rama
+  */
+other();
