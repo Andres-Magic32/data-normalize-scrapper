@@ -1,4 +1,5 @@
-import { readFile } from 'fs/promises'
+import { readFile } from 'fs/promises' 
+
 import xl from 'excel4node' // Se requiere para crear el excel
 //Comentarios de otro usuario
 const read = async() => {
@@ -81,4 +82,17 @@ const other = () => {
   console.log('saludos')
 }
 read() // Metodo void solo para ejecutar
- 
+
+ /**
+  * Se agrega desde la otra rama
+  */
+other();
+
+const test = () => {
+  // Se agrega desde test3-qa
+}
+
+const test2 = () => {
+  // since branch rebase feature/test3-qa-rebase
+}
+
