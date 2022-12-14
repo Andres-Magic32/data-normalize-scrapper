@@ -75,7 +75,7 @@ const read = async() => {
 }
 
 /**
- * Funcion de otro usuario : ted
+ * Funcion de otro usuario : ted - Cambios pa luego
  */
 const other = () => {
   console.log('saludos')
