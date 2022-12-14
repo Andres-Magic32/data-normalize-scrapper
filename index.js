@@ -85,3 +85,7 @@ read() // Metodo void solo para ejecutar
   * Se agrega desde la otra rama
   */
 other();
+
+const test = () => {
+  // Se agrega desde test3-qa
+}
