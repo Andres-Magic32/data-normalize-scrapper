@@ -82,6 +82,7 @@ const other = () => {
   console.log('saludos')
 }
 read() // Metodo void solo para ejecutar
+
  /**
   * Se agrega desde la otra rama
   */
@@ -94,3 +95,4 @@ const test = () => {
 const test2 = () => {
   // since branch rebase feature/test3-qa-rebase
 }
+
