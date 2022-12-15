@@ -1,0 +1,749 @@
+{
+    "data": {
+      "state": "13c3625e-7c98-2865-379b-c8ecb497d154",
+      "account_id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+      "user_id": null,
+      "credential_id": "13c3625e-7c98-2865-379b-c8ecb497d154",
+      "transactions": [
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10500,
+          "created_at": "2022-12-13T00:00:00+00:00",
+          "made_on": "2022-12-13T00:00:00+00:00",
+          "description": "DISNEY PLUS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "11:13",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "A",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 37135,
+          "created_at": "2022-12-10T00:00:00+00:00",
+          "made_on": "2022-12-10T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 54028,
+          "created_at": "2022-12-07T00:00:00+00:00",
+          "made_on": "2022-12-07T00:00:00+00:00",
+          "description": "Servipag ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "PAGO POR TERMIN",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Abono",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 29356,
+          "created_at": "2022-12-05T00:00:00+00:00",
+          "made_on": "2022-12-05T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 27497,
+          "created_at": "2022-12-05T00:00:00+00:00",
+          "made_on": "2022-12-05T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 25903,
+          "created_at": "2022-11-30T00:00:00+00:00",
+          "made_on": "2022-11-30T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 9850,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "SUMUP C*LAURA COMICH ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 5700,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "SAN RAFAEL EST CENTR ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 14690,
+          "created_at": "2022-11-25T00:00:00+00:00",
+          "made_on": "2022-11-25T00:00:00+00:00",
+          "description": "SAN RAFAEL ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10553,
+          "created_at": "2022-11-19T00:00:00+00:00",
+          "made_on": "2022-11-19T00:00:00+00:00",
+          "description": "NETFLIX.COM ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 3638,
+          "created_at": "2022-11-18T00:00:00+00:00",
+          "made_on": "2022-11-18T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SEGUROS ASOC. A",
+            "sucursal": "SERVICIOS CENTR",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 2085,
+          "created_at": "2022-11-18T00:00:00+00:00",
+          "made_on": "2022-11-18T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SEGUROS ASOC. A",
+            "sucursal": "SERVICIOS CENTR",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 69399,
+          "created_at": "2022-11-17T00:00:00+00:00",
+          "made_on": "2022-11-17T00:00:00+00:00",
+          "description": "CHILIS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 15180,
+          "created_at": "2022-11-17T00:00:00+00:00",
+          "made_on": "2022-11-17T00:00:00+00:00",
+          "description": "AP VIDA APOYO INTEGR ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "RECAUDACIONES",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 13330,
+          "created_at": "2022-11-14T00:00:00+00:00",
+          "made_on": "2022-11-14T00:00:00+00:00",
+          "description": "SUMUP C*LAURA COMICH ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10499,
+          "created_at": "2022-11-13T00:00:00+00:00",
+          "made_on": "2022-11-13T00:00:00+00:00",
+          "description": "DISNEY PLUS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 11278,
+          "created_at": "2022-10-30T00:00:00+00:00",
+          "made_on": "2022-10-30T00:00:00+00:00",
+          "description": "CVmaker B.V. CVmaker ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 17177,
+          "created_at": "2022-10-28T00:00:00+00:00",
+          "made_on": "2022-10-28T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 294642,
+          "created_at": "2022-10-28T00:00:00+00:00",
+          "made_on": "2022-10-28T00:00:00+00:00",
+          "description": "BANCO RIPLEY INTERNET-FONO",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "PAGO NORMAL",
+            "sucursal": "INTERNET-FONO",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Abono",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 25090,
+          "created_at": "2022-10-23T00:00:00+00:00",
+          "made_on": "2022-10-23T00:00:00+00:00",
+          "description": "PEDIDOS YA ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 1600,
+          "created_at": "2022-10-23T00:00:00+00:00",
+          "made_on": "2022-10-23T00:00:00+00:00",
+          "description": "PEDIDOS YA ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 1808,
+          "created_at": "2022-10-22T00:00:00+00:00",
+          "made_on": "2022-10-22T00:00:00+00:00",
+          "description": "UBER *CORNERSHOP ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 25216,
+          "created_at": "2022-10-21T00:00:00+00:00",
+          "made_on": "2022-10-21T00:00:00+00:00",
+          "description": "UBER *CORNERSHOP ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 12960,
+          "created_at": "2022-10-21T00:00:00+00:00",
+          "made_on": "2022-10-21T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A INTERNET-FONO",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "INTERNET-FONO",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10739,
+          "created_at": "2022-10-19T00:00:00+00:00",
+          "made_on": "2022-10-19T00:00:00+00:00",
+          "description": "NETFLIX.COM ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 3610,
+          "created_at": "2022-10-18T00:00:00+00:00",
+          "made_on": "2022-10-18T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SEGUROS ASOC. A",
+            "sucursal": "SERVICIOS CENTR",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 2069,
+          "created_at": "2022-10-18T00:00:00+00:00",
+          "made_on": "2022-10-18T00:00:00+00:00",
+          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SEGUROS ASOC. A",
+            "sucursal": "SERVICIOS CENTR",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 15059,
+          "created_at": "2022-10-17T00:00:00+00:00",
+          "made_on": "2022-10-17T00:00:00+00:00",
+          "description": "AP VIDA APOYO INTEGR ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "RECAUDACIONES",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 10628,
+          "created_at": "2022-10-13T00:00:00+00:00",
+          "made_on": "2022-10-13T00:00:00+00:00",
+          "description": "DISNEY PLUS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 2200000,
+          "created_at": "2022-10-06T00:00:00+00:00",
+          "made_on": "2022-10-06T00:00:00+00:00",
+          "description": "BANCO RIPLEY AHUMADA 254 OF.",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "SUPER AVANCE IN",
+            "sucursal": "AHUMADA 254 OF.",
+            "pan": "5490702537768951",
+            "numeroCuota": 12,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 243432,
+          "created_at": "2022-10-06T00:00:00+00:00",
+          "made_on": "2022-10-06T00:00:00+00:00",
+          "description": "BANCO RIPLEY INTERNET-FONO",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "PAGO NORMAL",
+            "sucursal": "INTERNET-FONO",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "No facturado",
+            "partida": "Abono",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 743760,
+          "created_at": "2022-10-05T00:00:00+00:00",
+          "made_on": "2022-10-05T00:00:00+00:00",
+          "description": "ENTEL VENTAS DE EQUI ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "TBK - CUOTAS CO",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 12,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 19980,
+          "created_at": "2022-10-05T00:00:00+00:00",
+          "made_on": "2022-10-05T00:00:00+00:00",
+          "description": "ENTEL PCS PAGO EN LI ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 19980,
+          "created_at": "2022-10-02T00:00:00+00:00",
+          "made_on": "2022-10-02T00:00:00+00:00",
+          "description": "ENTEL PCS PAGO EN LI ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        },
+        {
+          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+          "amount": 21881,
+          "created_at": "2022-09-30T00:00:00+00:00",
+          "made_on": "2022-09-30T00:00:00+00:00",
+          "description": "UBER EATS ",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "horaFacturacion": "",
+            "descripcion": "Compra sin cuotas",
+            "sucursal": "",
+            "pan": "5490702537768951",
+            "numeroCuota": 0,
+            "impCuota": 0,
+            "posteado": "P",
+            "facturado": "Facturado",
+            "partida": "Cargo",
+            "cliente": "Titular"
+          }
+        }
+      ]
+    },
+    "meta": {
+      "timestamp": "2022-12-14T22:52:53.389908",
+      "version": "1.1.0"
+    }
+  }

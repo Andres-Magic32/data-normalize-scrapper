@@ -1,0 +1,16 @@
+{
+    "data": {
+      "event_type": "validating",
+      "event_message": "Credential data is being validated",
+      "credential_id": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "user_id": null,
+      "state": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "institution": "bestado",
+      "client_id": "9ket5h619fhde1c2jae58lr42"
+    },
+    "meta": {
+      "time": "2022-12-14T21:44:16.4156773+00:00",
+      "version": "3.0.0",
+      "message_id": "322911f9-f78b-44ce-9234-47cff056312e"
+    }
+  }

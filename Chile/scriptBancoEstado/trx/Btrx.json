@@ -1,0 +1,16 @@
+{
+    "data": {
+      "account_id": "39d0b266-9984-436c-acdc-c0dfb32a6485",
+      "transactions": [],
+      "credential_id": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "user_id": null,
+      "state": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "institution": "bestado",
+      "client_id": "9ket5h619fhde1c2jae58lr42"
+    },
+    "meta": {
+      "time": "2022-12-14T21:45:29.1730511+00:00",
+      "version": "3.0.0",
+      "message_id": "23ff43c6-5f3a-4f29-aee8-854032dc1bec"
+    }
+  }

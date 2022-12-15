@@ -1,0 +1,300 @@
+{
+    "data": {
+      "state": "84b66931-ddbb-28b8-384d-bc15e90ea466",
+      "account_id": "hEgqg9ovzmOZXF39IZUraawY0gAT7qPa4O1XAImwOkY=",
+      "user_id": null,
+      "credential_id": "84b66931-ddbb-28b8-384d-bc15e90ea466",
+      "transactions": [
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010851787381247535",
+          "amount": 3000000,
+          "created_at": "2022-05-25T10:37:00+00:00",
+          "made_on": "2022-05-25T10:37:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010853038303670841",
+          "amount": -12932,
+          "created_at": "2022-05-10T23:09:00+00:00",
+          "made_on": "2022-05-10T23:09:00+00:00",
+          "description": "Comisión por Plan Cta. Corriente",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010853478613095137",
+          "amount": -56444,
+          "created_at": "2022-05-05T20:50:00+00:00",
+          "made_on": "2022-05-05T20:50:00+00:00",
+          "description": "Pago de créditos",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010855803366198208",
+          "amount": -12688,
+          "created_at": "2022-04-08T23:04:00+00:00",
+          "made_on": "2022-04-08T23:04:00+00:00",
+          "description": "Comisión por Plan Cta. Corriente",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010856063949272903",
+          "amount": -55509,
+          "created_at": "2022-04-05T22:41:00+00:00",
+          "made_on": "2022-04-05T22:41:00+00:00",
+          "description": "Pago de créditos",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010857153604669383",
+          "amount": 100000,
+          "created_at": "2022-03-24T08:00:00+00:00",
+          "made_on": "2022-03-24T08:00:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010857221353988094",
+          "amount": -5000000,
+          "created_at": "2022-03-23T13:11:00+00:00",
+          "made_on": "2022-03-23T13:11:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010858572630911695",
+          "amount": -55317,
+          "created_at": "2022-03-07T21:50:00+00:00",
+          "made_on": "2022-03-07T21:50:00+00:00",
+          "description": "Pago de créditos",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010860249454719699",
+          "amount": -5000000,
+          "created_at": "2022-02-16T12:03:00+00:00",
+          "made_on": "2022-02-16T12:03:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010860521556533990",
+          "amount": -5000000,
+          "created_at": "2022-02-13T08:28:00+00:00",
+          "made_on": "2022-02-13T08:28:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010860554163301710",
+          "amount": -5000000,
+          "created_at": "2022-02-12T23:24:00+00:00",
+          "made_on": "2022-02-12T23:24:00+00:00",
+          "description": "Transferencia enviada a INMOBILIARIA INVERSIONES",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010860679481334837",
+          "amount": -5000000,
+          "created_at": "2022-02-11T12:36:00+00:00",
+          "made_on": "2022-02-11T12:36:00+00:00",
+          "description": "Transferencia enviada a INMOBILIARIA INVERSIONES",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010860995928456929",
+          "amount": -54680,
+          "created_at": "2022-02-07T20:42:00+00:00",
+          "made_on": "2022-02-07T20:42:00+00:00",
+          "description": "Pago de créditos",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010861017782253731",
+          "amount": -551392,
+          "created_at": "2022-02-07T14:37:00+00:00",
+          "made_on": "2022-02-07T14:37:00+00:00",
+          "description": "Pago dividendo crédito hipotecario",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010861065796248591",
+          "amount": 25186000,
+          "created_at": "2022-02-07T01:17:00+00:00",
+          "made_on": "2022-02-07T01:17:00+00:00",
+          "description": "Abono Liquidación Deposito A Plazo",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010861705174158836",
+          "amount": -2000000,
+          "created_at": "2022-01-30T15:41:00+00:00",
+          "made_on": "2022-01-30T15:41:00+00:00",
+          "description": "Transferencia enviada a INMOBILIARIA INVERSIONES",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010861705199367869",
+          "amount": 2000000,
+          "created_at": "2022-01-30T15:40:00+00:00",
+          "made_on": "2022-01-30T15:40:00+00:00",
+          "description": "Transferencia recibida de Pablo Andres Vicencio Sanchez",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "ABONO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010861705287377738",
+          "amount": -3000000,
+          "created_at": "2022-01-30T15:39:00+00:00",
+          "made_on": "2022-01-30T15:39:00+00:00",
+          "description": "Transferencia enviada a INMOBILIARIA INVERSIONES",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010863847402551788",
+          "amount": -54239,
+          "created_at": "2022-01-05T20:37:00+00:00",
+          "made_on": "2022-01-05T20:37:00+00:00",
+          "description": "Pago de créditos",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010863869015348619",
+          "amount": -546964,
+          "created_at": "2022-01-05T14:37:00+00:00",
+          "made_on": "2022-01-05T14:37:00+00:00",
+          "description": "Pago dividendo crédito hipotecario",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010864407083576382",
+          "amount": -600000,
+          "created_at": "2021-12-30T09:09:00+00:00",
+          "made_on": "2021-12-30T09:09:00+00:00",
+          "description": "Transferencia enviada a Pablo Vicencio",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "TRANSFERENCIA"
+          }
+        },
+        {
+          "id": "BFDAD02659330BD5E503C3BDA39A1954939698F2|9010865296298201350",
+          "amount": -43590,
+          "created_at": "2021-12-20T02:09:00+00:00",
+          "made_on": "2021-12-20T02:09:00+00:00",
+          "description": "Seguro de Desgravamen Línea Sobregiro",
+          "status": "posted",
+          "updated_at": null,
+          "extra_data": {
+            "Type": "CARGO",
+            "TransactionType": "NO_ENRIQUECIDO"
+          }
+        }
+      ]
+    },
+    "meta": {
+      "timestamp": "2022-12-15T00:01:26.114185",
+      "version": "1.1.0"
+    }
+  }

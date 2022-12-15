@@ -1,0 +1,16 @@
+{
+    "data": {
+      "event_type": "connected",
+      "event_message": "The session was successfully started",
+      "credential_id": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "user_id": null,
+      "state": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "institution": "bestado",
+      "client_id": "9ket5h619fhde1c2jae58lr42"
+    },
+    "meta": {
+      "time": "2022-12-14T21:44:33.0710102+00:00",
+      "version": "3.0.0",
+      "message_id": "68259c90-54dd-40c6-a680-61081ccb5971"
+    }
+  }

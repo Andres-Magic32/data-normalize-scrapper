@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
+    "name": "Tarjeta Ripley Mastercard",
+    "balance": 1024552,
+    "currency": "CLP",
+    "number": "XXXX-XXXX-XXXX-8951",
+    "nature": "credit_card",
+    "created_at": null,
+    "updated_at": null,
+    "is_credit_card": true,
+    "credit_detail": null,
+    "available_balance": 477664,
+    "disposed_balance": null,
+    "posted_balance": null,
+    "extra_data": {
+      "limit": 1500000
+    },
+    "credential_id": "13c3625e-7c98-2865-379b-c8ecb497d154",
+    "user_id": null,
+    "state": "13c3625e-7c98-2865-379b-c8ecb497d154"
+  },
+  "meta": {
+    "timestamp": "2022-12-14T22:52:41.463598",
+    "version": "v2.1-preview"
+  }
+}
