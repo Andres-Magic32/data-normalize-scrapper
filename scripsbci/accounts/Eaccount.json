@@ -1,11 +1,11 @@
 {
     "data": {
-      "id": "hO8iYkVs0ljsy2NWN5+2JyeLw5pFFe3mzCb6EwQyxn8=",
-      "name": "XXXX-XXXX-XXXX-1424",
+      "id": "hEgqg9ovzmOZXF39IZUraawY0gAT7qPa4O1XAImwOkY=",
+      "name": "Cuenta Corriente",
       "balance": 1016421,
       "currency": "CLP",
-      "number": "XXXX-XXXX-XXXX-1424",
-      "nature": "debit_card",
+      "number": "13015214",
+      "nature": "account",
       "created_at": null,
       "updated_at": null,
       "is_credit_card": false,
@@ -14,9 +14,12 @@
       "disposed_balance": null,
       "posted_balance": null,
       "extra_data": {
+        "ExtraData": {
+          "AvailableOverdraft": 7840000
+        },
         "FinerioProductType": {
-          "Name": "debit_card",
-          "Description": "Débito"
+          "Name": "account",
+          "Description": "Cuenta"
         }
       },
       "credential_id": "84b66931-ddbb-28b8-384d-bc15e90ea466",
@@ -24,7 +27,7 @@
       "state": "84b66931-ddbb-28b8-384d-bc15e90ea466"
     },
     "meta": {
-      "timestamp": "2022-12-15T00:00:39.961966",
+      "timestamp": "2022-12-15T00:01:11.218854",
       "version": "v2.1-preview"
     }
   }

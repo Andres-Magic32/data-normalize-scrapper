@@ -1,0 +1,16 @@
+{
+    "data": {
+      "event_type": "decrypt",
+      "event_message": "Credential data was successfuly decrypted",
+      "credential_id": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "user_id": null,
+      "state": "199933f7-0b4c-64fd-1c38-208c80baaa16",
+      "institution": "bestado",
+      "client_id": "9ket5h619fhde1c2jae58lr42"
+    },
+    "meta": {
+      "time": "2022-12-14T21:44:14.3364921+00:00",
+      "version": "3.0.0",
+      "message_id": "88e10334-8d05-49ab-9767-c31634bea3e2"
+    }
+  }

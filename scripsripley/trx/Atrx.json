@@ -1,329 +1,212 @@
 {
-    "data": {
-      "state": "e2bf3253-bc97-0854-2522-d04e1b9025a2",
-      "account_id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-      "user_id": null,
-      "credential_id": "e2bf3253-bc97-0854-2522-d04e1b9025a2",
-      "transactions": [
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 37135,
-          "created_at": "2022-12-10T00:00:00+00:00",
-          "made_on": "2022-12-10T00:00:00+00:00",
-          "description": "UBER EATS ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "17:52",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "A",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 54028,
-          "created_at": "2022-12-07T00:00:00+00:00",
-          "made_on": "2022-12-07T00:00:00+00:00",
-          "description": "Servipag ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "PAGO POR TERMIN",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Abono",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 29356,
-          "created_at": "2022-12-05T00:00:00+00:00",
-          "made_on": "2022-12-05T00:00:00+00:00",
-          "description": "UBER EATS ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 27497,
-          "created_at": "2022-12-05T00:00:00+00:00",
-          "made_on": "2022-12-05T00:00:00+00:00",
-          "description": "UBER EATS ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 25903,
-          "created_at": "2022-11-30T00:00:00+00:00",
-          "made_on": "2022-11-30T00:00:00+00:00",
-          "description": "UBER EATS ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 9850,
-          "created_at": "2022-11-25T00:00:00+00:00",
-          "made_on": "2022-11-25T00:00:00+00:00",
-          "description": "SUMUP C*LAURA COMICH ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 5700,
-          "created_at": "2022-11-25T00:00:00+00:00",
-          "made_on": "2022-11-25T00:00:00+00:00",
-          "description": "SAN RAFAEL EST CENTR ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 14690,
-          "created_at": "2022-11-25T00:00:00+00:00",
-          "made_on": "2022-11-25T00:00:00+00:00",
-          "description": "SAN RAFAEL ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "No facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 10553,
-          "created_at": "2022-11-19T00:00:00+00:00",
-          "made_on": "2022-11-19T00:00:00+00:00",
-          "description": "NETFLIX.COM ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 3638,
-          "created_at": "2022-11-18T00:00:00+00:00",
-          "made_on": "2022-11-18T00:00:00+00:00",
-          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "SEGUROS ASOC. A",
-            "sucursal": "SERVICIOS CENTR",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 2085,
-          "created_at": "2022-11-18T00:00:00+00:00",
-          "made_on": "2022-11-18T00:00:00+00:00",
-          "description": "RIPLEY CAR S.A SERVICIOS CENTR",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "SEGUROS ASOC. A",
-            "sucursal": "SERVICIOS CENTR",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 69399,
-          "created_at": "2022-11-17T00:00:00+00:00",
-          "made_on": "2022-11-17T00:00:00+00:00",
-          "description": "CHILIS ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 15180,
-          "created_at": "2022-11-17T00:00:00+00:00",
-          "made_on": "2022-11-17T00:00:00+00:00",
-          "description": "AP VIDA APOYO INTEGR ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "RECAUDACIONES",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 13330,
-          "created_at": "2022-11-14T00:00:00+00:00",
-          "made_on": "2022-11-14T00:00:00+00:00",
-          "description": "SUMUP C*LAURA COMICH ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
-        },
-        {
-          "id": "20e33edf3c8f456b628a16afa1d39830d487c361529c6a25707a31f5e6aa3c7f",
-          "amount": 10499,
-          "created_at": "2022-11-13T00:00:00+00:00",
-          "made_on": "2022-11-13T00:00:00+00:00",
-          "description": "DISNEY PLUS ",
-          "status": "posted",
-          "updated_at": null,
-          "extra_data": {
-            "horaFacturacion": "",
-            "descripcion": "Compra sin cuotas",
-            "sucursal": "",
-            "pan": "5490702537768951",
-            "numeroCuota": 0,
-            "impCuota": 0,
-            "posteado": "P",
-            "facturado": "Facturado",
-            "partida": "Cargo",
-            "cliente": "Titular"
-          }
+  "data": {
+    "state": "13c3625e-7c98-2865-379b-c8ecb497d154",
+    "account_id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+    "user_id": null,
+    "credential_id": "13c3625e-7c98-2865-379b-c8ecb497d154",
+    "transactions": [
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 294642,
+        "created_at": "2022-10-28T00:00:00+00:00",
+        "made_on": "2022-10-28T00:00:00+00:00",
+        "description": "PAGO TARJETA CREDITO RIPLEY 8951",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "108813",
+          "number": "44241489",
+          "balance": 376,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": true
         }
-      ]
-    },
-    "meta": {
-      "timestamp": "2022-12-13T00:39:52.905849",
-      "version": "1.1.0"
-    }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 295000,
+        "created_at": "2022-10-28T00:00:00+00:00",
+        "made_on": "2022-10-28T00:00:00+00:00",
+        "description": "ABONO TRANSFERENCIA DESDE OTROS BANCOS",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "132767",
+          "number": "43023763",
+          "balance": 295018,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": false
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 243432,
+        "created_at": "2022-10-06T00:00:00+00:00",
+        "made_on": "2022-10-06T00:00:00+00:00",
+        "description": "PAGO TARJETA CREDITO RIPLEY 8951",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "83041",
+          "number": "42634855",
+          "balance": 18,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": true
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 20000,
+        "created_at": "2022-10-06T00:00:00+00:00",
+        "made_on": "2022-10-06T00:00:00+00:00",
+        "description": "ABONO TRANSFERENCIA DESDE OTROS BANCOS",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "84208",
+          "number": "41412771",
+          "balance": 243450,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": false
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 500000,
+        "created_at": "2022-10-06T00:00:00+00:00",
+        "made_on": "2022-10-06T00:00:00+00:00",
+        "description": "TRANSFERENCIA EN LINEA A OTRO BANCO Nicolle Silva",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "2653005",
+          "number": "42633309",
+          "balance": 223450,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": true
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 1280000,
+        "created_at": "2022-10-06T00:00:00+00:00",
+        "made_on": "2022-10-06T00:00:00+00:00",
+        "description": "TRANSFERENCIA EN LINEA A OTRO BANCO Nicolle Silva",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "4631876",
+          "number": "42632395",
+          "balance": 723450,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": true
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 2000000,
+        "created_at": "2022-10-06T00:00:00+00:00",
+        "made_on": "2022-10-06T00:00:00+00:00",
+        "description": "SUPER AVANCE DESDE TARJETA DE CREDITO BANCO RIPLEY 8951",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "83122",
+          "number": "42630721",
+          "balance": 2003450,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": false
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 54700,
+        "created_at": "2022-09-30T00:00:00+00:00",
+        "made_on": "2022-09-30T00:00:00+00:00",
+        "description": "PAGO TARJETA CREDITO RIPLEY 8951",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "77123",
+          "number": "42080341",
+          "balance": 3450,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": true
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 55000,
+        "created_at": "2022-09-30T00:00:00+00:00",
+        "made_on": "2022-09-30T00:00:00+00:00",
+        "description": "ABONO TRANSFERENCIA DESDE OTROS BANCOS",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "77771",
+          "number": "40852893",
+          "balance": 58150,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": false
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 296690,
+        "created_at": "2022-09-03T00:00:00+00:00",
+        "made_on": "2022-09-03T00:00:00+00:00",
+        "description": "PAGO TARJETA CREDITO RIPLEY 8951",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "59859",
+          "number": "40044605",
+          "balance": 3150,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": true
+        }
+      },
+      {
+        "id": "f6e7a8a896cb0edf0d53a93c90f5079ffd30b9e33975110d72f7469c6191cd67",
+        "amount": 297000,
+        "created_at": "2022-09-03T00:00:00+00:00",
+        "made_on": "2022-09-03T00:00:00+00:00",
+        "description": "ABONO TRANSFERENCIA DESDE OTROS BANCOS",
+        "status": "posted",
+        "updated_at": null,
+        "extra_data": {
+          "id": "311826",
+          "number": "38808257",
+          "balance": 299840,
+          "type": null,
+          "branch": "CASA MATRIZ",
+          "status": null,
+          "isDebit": false
+        }
+      }
+    ]
+  },
+  "meta": {
+    "timestamp": "2022-12-14T22:52:38.320303",
+    "version": "1.1.0"
   }
+}

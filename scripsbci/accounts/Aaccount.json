@@ -22,12 +22,12 @@
           "Description": "Cuenta"
         }
       },
-      "credential_id": "62468011-30d6-2b9a-01c4-510ecbde289d",
+      "credential_id": "84b66931-ddbb-28b8-384d-bc15e90ea466",
       "user_id": null,
-      "state": "62468011-30d6-2b9a-01c4-510ecbde289d"
+      "state": "84b66931-ddbb-28b8-384d-bc15e90ea466"
     },
     "meta": {
-      "timestamp": "2022-12-13T01:14:42.636831",
+      "timestamp": "2022-12-14T23:59:20.435314",
       "version": "v2.1-preview"
     }
   }

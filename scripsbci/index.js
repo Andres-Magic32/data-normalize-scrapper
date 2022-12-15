@@ -104,13 +104,21 @@ const read2 = async() => {
   const ws1 = wb.addWorksheet('Btrx.json');
   const ws2 = wb.addWorksheet('Ctrx.json'); 
   const ws3 = wb.addWorksheet('Dtrx.json');  
-  const ws4 = wb.addWorksheet('Etrx.json');  
+  const ws4 = wb.addWorksheet('Etrx.json'); 
+  const ws5 = wb.addWorksheet('Ftrx.json'); 
+  const ws6 = wb.addWorksheet('Htrx.json');  
+  const ws7 = wb.addWorksheet('Itrx.json');  
+  const ws8 = wb.addWorksheet('Jtrx.json');  
   
      await read('Atrx.json',ws,style);
      await read('Btrx.json',ws1,style);
      await read('Ctrx.json',ws2,style); 
      await read('Dtrx.json',ws3,style); 
      await read('Etrx.json',ws4,style);     
+     await read('Ftrx.json',ws5,style);     
+     await read('Htrx.json',ws6,style);     
+     await read('Itrx.json',ws7,style);     
+     await read('Jtrx.json',ws8,style);     
    //  await read('Gtrx.json',ws7,style);
   
      wb.write(`Excel_trx.xlsx`);  

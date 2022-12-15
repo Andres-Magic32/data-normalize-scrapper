@@ -12,12 +12,20 @@ const read = async() => {
     const json_tres = JSON.parse(file_tres)
     const file_cuatro = await readFile('./accounts/Daccount.json', 'utf-8');
     const json_cuatro = JSON.parse(file_cuatro)
+    const file_cinco = await readFile('./accounts/Eaccount.json', 'utf-8');
+    const json_cinco = JSON.parse(file_cinco)
+    const file_seis = await readFile('./accounts/Faccount.json', 'utf-8');
+    const json_seis = JSON.parse(file_seis)
+    const file_siete = await readFile('./accounts/Haccount.json', 'utf-8');
+    const json_siete = JSON.parse(file_siete)
+    const file_ocho = await readFile('./accounts/Haccount.json', 'utf-8');
+    const json_ocho = JSON.parse(file_ocho)
 
     
     // Tome los json y unifique las transacciones para tener un solo objeto de TRXS
 
      const jsons = [];
-     jsons.push(json , json_dos, json_tres,json_cuatro)
+     jsons.push(json , json_dos, json_tres,json_cuatro,json_cinco,json_seis,json_siete,json_ocho)
      
    
     const wb = new xl.Workbook();

@@ -112,13 +112,13 @@ const read2 = async() => {
     },
   });
   const ws = wb.addWorksheet('Atrx.json');
-  const ws1 = wb.addWorksheet('Btrx.json');
+  // const ws1 = wb.addWorksheet('Btrx.json');
   // const ws2 = wb.addWorksheet('Ctrx.json'); 
   // const ws3 = wb.addWorksheet('Dtrx.json');  
   // const ws4 = wb.addWorksheet('Etrx.json');  
   
      await read('Atrx.json',ws,style);
-     await read('Btrx.json',ws1,style);
+    //  await read('Btrx.json',ws1,style);
     //  await read('Ctrx.json',ws2,style); 
     // //  await read('Dtrx.json',ws3,style); 
     //  await read('Etrx.json',ws4,style);     
